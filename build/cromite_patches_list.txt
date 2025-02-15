@@ -226,7 +226,6 @@ Revert-remove-allowscript-content-setting-secondary-url.patch
 Timezone-customization.patch
 Change-popup-site-setting.patch
 Disable-speechSynthesis-getVoices-API.patch
-Remove-support-for-device-memory-and-cpu-recovery.patch
 Log-dangling-attributes-in-some-html-elements.patch
 Keep-Side-Panel-Companion-disabled.patch
 Lock-Profile-Cookie-Database.patch
